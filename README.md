@@ -1,6 +1,6 @@
 # File Metadata Microservice
 
-[![Run on Repl.it](https://repl.it/badge/github/GTS08/File-Metadata-Microservice)](https://repl.it/github/GTS08/File-Metadata-Microservice)
+[![Run on Repl.it](https://repl.it/badge/github/gthomas10/File-Metadata-Microservice)](https://repl.it/github/gthomas10/File-Metadata-Microservice)
 
 ## About The Project
 
@@ -24,7 +24,7 @@ You can find more information [here](https://www.freecodecamp.org/learn/back-end
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/GTS08/File-Metadata-Microservice.git
+   git clone https://github.com/gthomas08/File-Metadata-Microservice.git
    ```
 2. Go to project directory
    ```bash
